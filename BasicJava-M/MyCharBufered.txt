@@ -1,0 +1,3 @@
+This is my first line using buffered stream 
+Appending new line 
+End of lineAppending new line after flush 
